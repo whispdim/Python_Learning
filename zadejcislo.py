@@ -1,0 +1,1 @@
+cislo = int(input('Zadej číslo '))
